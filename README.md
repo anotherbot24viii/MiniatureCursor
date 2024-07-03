@@ -1,6 +1,7 @@
 # MINIATURE CURSOR 
 
 A tiny cursor, for Linux and Windows.
+
 ![preview](previews/preview.png)
 
 This is Miniature, it seeks to be simple and effective, with that nostalgic retro air, now with contrast in black backgrounds, a simple loading animation and support for Windows.
